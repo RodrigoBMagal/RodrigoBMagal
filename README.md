@@ -8,8 +8,8 @@ Meu nome é Rodrigo Bento Magalhães, sou natural do Rio de Janeiro, tenho 26 an
 <p align="left"> 
     <a href="https://github.com/RodrigoBMagal?tab=repositories&sort=stargazers" target="_blank"><img src="https://custom-icon-badges.demolab.com/github/stars/RodrigoBMagal?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" target="_blank"></a>
     <a href="https://github.com/RodrigoBMagal?tab=followers" target="_blank"><img src="https://img.shields.io/badge/Seguidores-Siga%20Aqui-236ad3?style=for-the-badge&logo=github" target="_blank"></a>
-    <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/thedocreator" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:rodrigo.bento2010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
