@@ -79,7 +79,7 @@ Meu nome é Rodrigo Bento Magalhães, sou natural do Rio de Janeiro, tenho 26 an
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
