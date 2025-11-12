@@ -4,27 +4,12 @@
 
 Meu nome é Rodrigo Bento Magalhães, sou natural do Rio de Janeiro, tenho 26 anos. No momento estou estudando Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá(UNESA), sou um grande entusiasta de tecnologia, apaixonado por inovações no ambiente de trabalho e estudo constantemente sobre o uso de ferramentas novas.
 
+##
 <p align="left"> 
-    <a href="https://github.com/RodrigoBMagal?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/RodrigoBMagal?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    <a href="https://github.com/RodrigoBMagal?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/badge/Seguidores-Siga%20Aqui-236ad3?style=for-the-badge&logo=github"
-        />
-   </a>
-    <a href="mailto:rodrigo.bento2010@gmail.com">
-        <img
-            alt ="Meu Gmail"
-            title="Meu Gmail para contato"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"
-        />
-    </a>
+    <a href="https://github.com/RodrigoBMagal?tab=repositories&sort=stargazers" target="_blank"><img src="https://custom-icon-badges.demolab.com/github/stars/RodrigoBMagal?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" target="_blank"></a>
+    <a href="https://github.com/RodrigoBMagal?tab=followers" target="_blank"><img src="https://img.shields.io/badge/Seguidores-Siga%20Aqui-236ad3?style=for-the-badge&logo=github" target="_blank"></a>
+    <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
