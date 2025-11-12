@@ -17,6 +17,13 @@ Meu nome é Rodrigo Bento Magalhães, sou natural do Rio de Janeiro, tenho 26 an
             title="Me siga no GitHub" 
             src="https://img.shields.io/badge/Seguidores-Siga%20Aqui-236ad3?style=for-the-badge&logo=github"
         />
+   </a>
+    <a href="mailto:rodrigo.bento2010@gmail.com">
+        <img
+            alt ="Meu Gmail"
+            title="Meu Gmail para contato"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"
+        />
     </a>
 </p>
 
