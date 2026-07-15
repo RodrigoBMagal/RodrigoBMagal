@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Rodrigo B. Magalhães
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Fullstack`**
 
 Meu nome é Rodrigo Bento Magalhães, sou natural do Rio de Janeiro, tenho 26 anos. No momento estou estudando Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá(UNESA), sou um grande entusiasta de tecnologia, apaixonado por inovações no ambiente de trabalho e estudo constantemente sobre o uso de ferramentas novas.
 
