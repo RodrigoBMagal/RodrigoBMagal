@@ -127,19 +127,9 @@ Meu nome é Rodrigo Bento Magalhães, sou natural do Rio de Janeiro, tenho 26 an
 ### 📊 Estatísticas
 
 <p> 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RodrigoBMagal&show_icons=true&theme=neon&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobmagal&theme=neon&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RodrigoBMagal&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=RodrigoBMagal&show_icons=true&include_all_commits=true&theme=radical)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RodrigoBMagal&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=RodrigoBMagal&langs_count=4&theme=radical)
 
 </p>
